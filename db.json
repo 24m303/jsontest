@@ -26,13 +26,8 @@
     {"id": 24, "rece": "ホープフルステークス" , "name": "レガレイラ"}
   ],
   "comments": [
-    { "id": 1, "body": "負け", "postsId": 1 },
-    { "id": 2, "body": "負け", "postsId": 2 },
-    { "id": 3, "body": "負け", "postsId": 3 },
-    { "id": 4, "body": "勝ち", "postsId": 4 },
-    { "id": 5, "body": "タコ負け", "postsId": 5 },
-    { "id": 6, "body": "勝ち", "postsId": 6 },
-    { "id": 7, "body": "負け", "postsId": 7 },
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
