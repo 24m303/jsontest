@@ -27,7 +27,12 @@
   ],
   "comments": [
     { "id": 1, "body": "負け", "postId": 1 },
-    { "id": 2, "body": "負け", "postId": 1 }
+    { "id": 2, "body": "負け", "postId": 2 },
+    { "id": 3, "body": "負け", "postId": 3 },
+    { "id": 4, "body": "勝ち", "postId": 4 },
+    { "id": 5, "body": "タコ負け", "postId": 5 },
+    { "id": 6, "body": "勝ち", "postId": 6 },
+    { "id": 7, "body": "負け", "postId": 7 },
   ],
   "profile": {
     "name": "typicode"
